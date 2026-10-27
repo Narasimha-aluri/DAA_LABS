@@ -19,4 +19,4 @@ A centralized repository for the Design and Analysis of Algorithms (DAA) Laborat
 | 9 | Branch and Bound | puzzle.c |O(b^d) |
 | 10 | Backtracking or Branch Bound | queens.c | O(N!) |
 ## How to run
-gcc week-01-searching/binary_search.c -o bs && ./bs
+gcc Week1/binary_search.c -o bs && ./bs
